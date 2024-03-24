@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleIeApp1
+namespace BossFight
 {
     internal class Program
     {
